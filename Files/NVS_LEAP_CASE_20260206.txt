@@ -1,0 +1,7 @@
+spp_pat_id|patient_name|dob|gender|state|ssn|npi_id
+1001|prashant kumar|1990-05-15|M|goa|123-456-7890|9001
+1002|ananya sharma|1985-12-20|F|up|987-654-3210|9001
+1003|amit singh|1992-03-10|M|Delhi|456-789-1230|9002
+1004|SNEHA REDDY|1988-07-25|F|Telangana|321-654-0987|9003
+|rajesh gupta|null|M|Bihar|null|9001
+1006|kamlesh|1992-07-05|M|punjab|321-655-0987|9002

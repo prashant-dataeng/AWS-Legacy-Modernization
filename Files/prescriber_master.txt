@@ -1,0 +1,3 @@
+npi_id|doctor_name|specialty
+9001|DR. SMITH|CARDIOLOGY
+9002|DR. JONE|NEUROLOGY

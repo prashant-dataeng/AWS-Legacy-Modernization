@@ -1,6 +1,0 @@
-spp_pat_id|patient_name|dob|gender|state|ssn
-1001|prashant kumar|1990-05-15|M|Karnataka|123-456-7890
-1002|ananya sharma|1985-12-20|F|Maharashtra|987-654-3210
-1003|amit singh|1992-03-10|M|Delhi|456-789-1230
-1004|SNEHA REDDY|1988-07-25|F|Telangana|321-654-0987
-1005|rajesh gupta|null|M|Bihar|null

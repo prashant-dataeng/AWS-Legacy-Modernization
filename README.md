@@ -20,7 +20,9 @@ This project is a personal end-to-end implementation of a healthcare data pipeli
 #### 📈 Execution Results
 
 After the pipeline runs, it generates an automated HTML report. This gives me a high-level view of the data health immediately.
- **HTML Report**
+
+**HTML Report**
+
 
 <img width="500" height="699" alt="image" src="https://github.com/user-attachments/assets/53580e23-4936-4ee6-8519-ab05e319f9e0" />
 

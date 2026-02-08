@@ -1,14 +1,3 @@
-# AWS-Legacy-Modernization
-<img width="1907" height="857" alt="image" src="https://github.com/user-attachments/assets/a2e7a884-8f93-4ad1-8462-5c271c3b3122" />
-
-Crawler-
-<img width="1919" height="797" alt="image" src="https://github.com/user-attachments/assets/9c09216b-71be-4e1e-8a15-2f6ffa1f56ef" />
-
-Athena-
-Table
-<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/906854dc-33f4-4d32-8eb8-fddc8f73f843" />
-
-
 ### 🏥 Healthcare Data Mastering & Ingestion Pipeline
 
 This project is a personal end-to-end implementation of a healthcare data pipeline. I built this to solve a common industry challenge: handling inconsistent and "dirty" patient data coming from various sources. I used **AWS** and **PySpark** to automate the validation, cleaning, and mastering of these records.
@@ -34,3 +23,11 @@ After the pipeline runs, it generates an automated HTML report. This gives me a 
 
 <img width="500" height="699" alt="image" src="https://github.com/user-attachments/assets/53580e23-4936-4ee6-8519-ab05e319f9e0" />
 
+<img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/a2e7a884-8f93-4ad1-8462-5c271c3b3122" />
+
+Crawler-
+<img width="500" height="797" alt="image" src="https://github.com/user-attachments/assets/9c09216b-71be-4e1e-8a15-2f6ffa1f56ef" />
+
+Athena-
+Table
+<img width="500" height="822" alt="image" src="https://github.com/user-attachments/assets/906854dc-33f4-4d32-8eb8-fddc8f73f843" />
